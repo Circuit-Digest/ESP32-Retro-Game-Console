@@ -7,7 +7,7 @@
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
-<img src="" width="" height="" />
+<img src="https://github.com/Circuit-Digest/ESP32-Retro-Game-Console/blob/0a83f238ce90594f5f8fca71dad3b9b611b35e96/Untitled%20Project.gif" width="" height="" />
 
 <br>
 <br>
