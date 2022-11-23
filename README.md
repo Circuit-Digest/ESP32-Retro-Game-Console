@@ -1,5 +1,5 @@
 # [ESP32-Retro-Game-Console](https://circuitdigest.com/microcontroller-projects/)
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/f03880cf410a6d26f3aee6174c1bc18d331a2654/Title.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/ESP32-Retro-Game-Console/blob/2f827a784908b86c55040510312a4a3fbdabad00/Title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -7,12 +7,11 @@
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/ee5599a09004861a75ee062462898b256c045423/Watch%20faces.gif" width="" height="" />
+<img src="https://github.com/Circuit-Digest/ESP32-Retro-Game-Console/blob/2f827a784908b86c55040510312a4a3fbdabad00/Untitled%20Project.gif" width="" height="" />
 
 <br>
 <br>
-Smartwatches give individuals lightweight and quick access to messages, warnings, health data and other advanced information while in a hurry. While officially ground-breaking as independent gadgets, the capabilities of smartwatches increment essentially when utilized paired with different gadgets that individuals convey, for example, their smartphones or tablets. In this project, we are going to build such a feature-rich, customizable smartwatch from scratch. We are going to make this using the best affordable and easily available components. Since designing such a product is a lengthy time-consuming procedure, we are going to do them in parts.  
-
+Do you remember the old classic 8bit games? Perhaps you enjoyed your leisure time in front of an early home computer or video game system.  They were so nostalgic and every kid in that era loved them. Now they are replaced with modern high-end graphics and game dynamics. Yet many people still love to play those classic games. Nowadays the only way to play these games is through emulators. So, in this tutorial, we are looking at how to make such a device that can emulate those classic games. This console is based on the popular Odroid Go, with updated firmware and new IPS display. And the firmware used is a modified version of ducalex's retro-go firmware.
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
