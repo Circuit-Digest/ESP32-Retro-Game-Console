@@ -1,4 +1,4 @@
-# [ESP32-Retro-Game-Console]([https://circuitdigest.com/microcontroller-projects/](https://circuitdigest.com/microcontroller-projects/esp32-based-retro-game-console])
+# [ESP32-Retro-Game-Console](https://circuitdigest.com/microcontroller-projects/esp32-based-retro-game-console)
 <img src="https://github.com/Circuit-Digest/ESP32-Retro-Game-Console/blob/2f827a784908b86c55040510312a4a3fbdabad00/Title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
